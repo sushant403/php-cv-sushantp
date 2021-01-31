@@ -39,7 +39,7 @@
                         <li><span class="title">E-mail</span><span class="value"><a href="/cdn-cgi/l/email-protection#2f4a424e46436f4a574e425f434a014c4042"><span class="__cf_email__" data-cfemail="99fcf4f8f0f5d9fce1f8f4e9f5fcb7faf6f4">[email&#160;protected]</span></a>
                             </span>
                         </li>
-                        <li><span class="title">Contact Website</span><span class="value"><a href="https://www.sushantp.com.np" target="_blank">https://sushantp.com.np</a></span>
+                        <li><span class="title">Contact Website</span><span class="value"><a href="http://www.sushantp.com.np" target="_blank">https://sushantp.com.np</a></span>
                         </li>
                         <li><span class="title">Phone</span><span class="value">+977 986 ***** 94
                             </span></li>
@@ -137,60 +137,6 @@
                 </div>
             </div>
             <!-- /Services Block -->
-
-            <!-- Clients Block -->
-            <div class="row pt-5">
-                <div class="col-xs-12 col-sm-12">
-                    <div class="col-inner">
-                        <!-- Clients Block Title -->
-                        <div class="block-title">
-                            <h3>Clients<span></span></h3>
-                        </div>
-                        <!-- /Clients Block Title -->
-
-                        <!-- Clients Carousel Block -->
-                        <div class="clients owl-carousel">
-                            <div class="client-block">
-                                <a href="#" target="_blank" title="Logo">
-                                    <img src="assets/images/clients/07.png" alt="Logo">
-                                </a>
-                            </div>
-                            <div class="client-block">
-                                <a href="#" target="_blank" title="Logo">
-                                    <img src="assets/images/clients/client-6.png" alt="Logo">
-                                </a>
-                            </div>
-                            <div class="client-block">
-                                <a href="#" target="_blank" title="Logo">
-                                    <img src="assets/images/clients/client-5.png" alt="Logo">
-                                </a>
-                            </div>
-                            <div class="client-block">
-                                <a href="#" target="_blank" title="Logo">
-                                    <img src="assets/images/clients/client-4.png" alt="Logo">
-                                </a>
-                            </div>
-                            <div class="client-block">
-                                <a href="#" target="_blank" title="Logo">
-                                    <img src="assets/images/clients/03.png" alt="Logo">
-                                </a>
-                            </div>
-                            <div class="client-block">
-                                <a href="#" target="_blank" title="Logo">
-                                    <img src="assets/images/clients/client-2.png" alt="Logo">
-                                </a>
-                            </div>
-                            <div class="client-block">
-                                <a href="#" target="_blank" title="Logo">
-                                    <img src="assets/images/clients/client-1.png" alt="Logo">
-                                </a>
-                            </div>
-                        </div>
-                        <!-- /Clients Carousel Block -->
-                    </div>
-                </div>
-            </div>
-            <!-- /Clients Block -->
         </div>
     </div>
 </section>

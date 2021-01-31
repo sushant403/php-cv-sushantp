@@ -17,125 +17,113 @@
                                 <a class="filter btn btn-sm btn-link" data-group="category_all">All</a>
                             </li>
                             <li>
-                                <a class="filter btn btn-sm btn-link" data-group="category_media">Media</a>
+                                <a class="filter btn btn-sm btn-link" data-group="category_fullstack">Full Stack</a>
                             </li>
                             <li>
-                                <a class="filter btn btn-sm btn-link" data-group="category_mockups">Mockups</a>
+                                <a class="filter btn btn-sm btn-link" data-group="category_design">UI/UX Design</a>
                             </li>
                             <li>
-                                <a class="filter btn btn-sm btn-link" data-group="category_soundcloud">SoundCloud</a>
-                            </li>
-                            <li>
-                                <a class="filter btn btn-sm btn-link" data-group="category_vimeo-videos">Vimeo Videos</a>
-                            </li>
-                            <li>
-                                <a class="filter btn btn-sm btn-link" data-group="category_youtube-videos">YouTube Videos</a>
+                                <a class="filter btn btn-sm btn-link" data-group="category_motivation">Motivation</a>
                             </li>
                         </ul>
 
                         <!-- Portfolio Grid -->
                         <div class="portfolio-grid four-columns">
-                            <!-- Portfolio Project 1 -->
-                            <figure class="item lbaudio" data-groups='["category_all", "category_soundcloud"]'>
-                                <div class="portfolio-item-img">
-                                    <img src="assets/images/portfolio/1.jpg" alt="SoundCloud Audio" title="" />
-                                    <a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221650664&#038;color=%23ff5500&#038;auto_play=false&#038;hide_related=false&#038;show_comments=true&#038;show_user=true&#038;show_reposts=false&#038;show_teaser=true&#038;visual=true" class="lightbox mfp-iframe" title="SoundCloud Audio"></a>
-                                </div>
 
-                                <i class="fa fa-volume-up"></i>
-                                <h4 class="name">SoundCloud Audio</h4>
-                                <span class="category">SoundCloud</span>
-                            </figure>
-                            <!-- /Portfolio Project 1 -->
-
-                            <!-- Portfolio Project 2 -->
-                            <figure class="item standard" data-groups='["category_all", "category_media"]'>
+                            <!-- Portfolio Project -->
+                            <figure class="item standard" data-groups='["category_all", "category_fullstack"]'>
                                 <div class="portfolio-item-img">
-                                    <img src="assets/images/portfolio/2.jpg" alt="Media Project 2" title="" />
-                                    <a href="portfolio-1.html" class="ajax-page-load"></a>
+                                    <img src="assets/images/portfolio/skillpark-Frontend_SushantPoudel.png" alt="Full Stack Project" title="" />
+                                    <a href="https://skillpark.herokuapp.com" target="_blank"></a>
                                 </div>
 
                                 <i class="far fa-file-alt"></i>
-                                <h4 class="name">Media Project 2</h4>
-                                <span class="category">Media</span>
+                                <h4 class="name">Full Stack Project</h4>
+                                <span class="category">Full Stack</span>
                             </figure>
-                            <!-- /Portfolio Project 2 -->
-
-                            <!-- Portfolio Project 3 -->
-                            <figure class="item lbvideo" data-groups='["category_all", "category_vimeo-videos"]'>
-                                <div class="portfolio-item-img">
-                                    <img src="assets/images/portfolio/3.jpg" alt="Vimeo Video 1" title="" />
-                                    <a href="https://player.vimeo.com/video/158284739" class="lightbox mfp-iframe" title="Vimeo Video 1"></a>
-                                </div>
-
-                                <i class="fas fa-video"></i>
-                                <h4 class="name">Vimeo Video 1</h4>
-                                <span class="category">Vimeo Videos</span>
-                            </figure>
-                            <!-- Portfolio Project 3 -->
+                            <!-- /Portfolio Project -->
 
                             <!-- Portfolio Project 4 -->
-                            <figure class="item standard" data-groups='["category_all", "category_media"]'>
+                            <figure class="item standard" data-groups='["category_all", "category_fullstack"]'>
                                 <div class="portfolio-item-img">
-                                    <img src="assets/images/portfolio/4.jpg" alt="Media Project 1" title="" />
-                                    <a href="#" class="ajax-page-load"></a>
+                                    <img src="assets/images/portfolio/karyapalika-Frontend_SushantPoudel.png" alt="Full Stack Project" title="" />
+                                    <a href="https://karyapalika.herokuapp.com" target="_blank"></a>
                                 </div>
 
                                 <i class="far fa-file-alt"></i>
-                                <h4 class="name">Media Project 1</h4>
-                                <span class="category">Media</span>
+                                <h4 class="name">Full Stack Project</h4>
+                                <span class="category">Full Stack</span>
                             </figure>
                             <!-- Portfolio Project 4 -->
 
                             <!-- Portfolio Project 5 -->
-                            <figure class="item lbimage" data-groups='["category_all", "category_mockups"]'>
+                            <figure class="item lbimage" data-groups='["category_all", "category_design"]'>
                                 <div class="portfolio-item-img">
-                                    <img src="assets/images/portfolio/5.jpg" alt="Mockup Design 1" title="" />
-                                    <a class="lightbox" title="Mockup Design 1" href="assets/images/portfolio/5.jpg"></a>
+                                    <img src="assets/images/portfolio/Writell-Frontend_SushantPoudel.png" alt="UI/UX Design" title="" />
+                                    <a class="lightbox" title="UI/UX Design" href="assets/images/portfolio/Writell-Frontend_SushantPoudel.png"></a>
                                 </div>
 
                                 <i class="far fa-image"></i>
-                                <h4 class="name">Mockup Design 1</h4>
-                                <span class="category">Mockups</span>
+                                <a href="https://writell.herokuapp.com" target="_blank">
+                                    <h4 class="name">Writell Blogging Site</h4>
+                                </a>
+                                <span class="category">UI/UX</span>
                             </figure>
                             <!-- /Portfolio Project 5 -->
 
                             <!-- Portfolio Project 6 -->
-                            <figure class="item lbvideo" data-groups='["category_all", "category_youtube-videos"]'>
+                            <figure class="item lbvideo" data-groups='["category_all", "category_motivation"]'>
                                 <div class="portfolio-item-img">
-                                    <img src="assets/images/portfolio/6.jpg" alt="YouTube Video 1" title="" />
-                                    <a href="https://www.youtube.com/embed/bg0gv2YpIok" class="lightbox mfp-iframe" title="YouTube Video 1"></a>
+                                    <img src="assets/images/portfolio/6.jpg" alt="The Puzzle of Motivation" title="" />
+                                    <a href="https://www.youtube.com/embed/rrkrvAUbU9Y" class="lightbox mfp-iframe" title="Puzzle of Motivation"></a>
                                 </div>
 
                                 <i class="fas fa-video"></i>
-                                <h4 class="name">YouTube Video 1</h4>
-                                <span class="category">YouTube Videos</span>
+                                <h4 class="name">Puzzle of Motivation</h4>
+                                <span class="category">Motivation</span>
                             </figure>
                             <!-- /Portfolio Project 6 -->
 
                             <!-- Portfolio Project 7 -->
-                            <figure class="item standard" data-groups='["category_all", "category_media"]'>
+                            <figure class="item standard" data-groups='["category_all", "category_fullstack"]'>
                                 <div class="portfolio-item-img">
-                                    <img src="assets/images/portfolio/5.jpg" alt="Media Project 1" title="" />
-                                    <a href="" class="ajax-page-load"></a>
+                                    <img src="assets/images/portfolio/konnectford-Frontend_SushantPoudel.png" alt="Full Stack Project" title="" />
+                                    <!-- <a href="" class="ajax-page-load"></a> -->
                                 </div>
 
                                 <i class="far fa-file-alt"></i>
-                                <h4 class="name">Media Project 3</h4>
-                                <span class="category">Media</span>
+                                <h4 class="name">Full Stack Project 3</h4>
+                                <span class="category">Full Stack</span>
                             </figure>
                             <!-- /Portfolio Project 7 -->
 
                             <!-- Portfolio Project 8 -->
-                            <figure class="item lbimage" data-groups='["category_all", "category_mockups"]'>
+                            <figure class="item lbimage" data-groups='["category_all", "category_design"]'>
                                 <div class="portfolio-item-img">
-                                    <img src="assets/images/portfolio/6.jpg" alt="Mockup Design 1" title="" />
-                                    <a class="lightbox" title="Mockup Design 1" href="assets/images/portfolio/6.jpg"></a>
+                                    <img src="assets/images/portfolio/lagani-Frontend_SushantPoudel.png" alt="UI/UX Design" title="" />
+                                    <a class="lightbox" title="UI/UX Design" href="assets/images/portfolio/lagani-Frontend_SushantPoudel.png"></a>
                                 </div>
 
                                 <i class="far fa-image"></i>
-                                <h4 class="name">Mockup Design 2</h4>
-                                <span class="category">Mockups</span>
+                                <a href="https://hamrolagani.herokuapp.com" target="_blank">
+                                    <h4 class="name">HamroLagani Mockup</h4>
+                                </a>
+                                <span class="category">UI/UX</span>
+                            </figure>
+                            <!-- /Portfolio Project 8 -->
+
+                            <!-- Portfolio Project 8 -->
+                            <figure class="item lbimage" data-groups='["category_all", "category_design"]'>
+                                <div class="portfolio-item-img">
+                                    <img src="assets/images/portfolio/sms-Frontend_SushantPoudel.png" alt="UI/UX Design" title="" />
+                                    <a class="lightbox" title="UI/UX Design" href="assets/images/portfolio/sms-Frontend_SushantPoudel.png"></a>
+                                </div>
+
+                                <i class="far fa-image"></i>
+                                <a href="https://sajilosewa.com" target="_blank">
+                                    <h4 class="name">Sajilo Marmat Sewa</h4>
+                                </a>
+                                <span class="category">UI/UX</span>
                             </figure>
                             <!-- /Portfolio Project 8 -->
 

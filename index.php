@@ -1,4 +1,5 @@
-<?php include('./include/db.php');
+<?php
+include('./include/db.php');
 $query = "SELECT * FROM basic_setup,personal_setup,aboutus_setup";
 $runquery = mysqli_query($db, $query);
 if (!$db) {
@@ -17,7 +18,7 @@ $data = mysqli_fetch_array($runquery);
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="<?= $data['description'] ?>" />
     <meta name="keywords" content="<?= $data['keyword'] ?>" />
-    <meta name="author" content="sushantp.com.np" />
+    <meta name="author" content="Sushant Poudel" />
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/59304990?s=460&u=bcc656b65c5b5370cf54613248b54239c39857b4&v=4" />
     <!-- Favicons -->
     <link href="assets/img/<?= $data['icon'] ?>" rel="icon">
@@ -62,8 +63,6 @@ $data = mysqli_fetch_array($runquery);
                     <?php require('./sections/resume.php') ?>
 
                     <?php require('./sections/portfolio.php') ?>
-
-                    <?php require('./sections/blogs.php') ?>
 
                     <?php require('./sections/contact.php') ?>
 
@@ -115,12 +114,13 @@ $data = mysqli_fetch_array($runquery);
     <script src="/assets/js/bootstrap.min.js"></script>
     <script src="/assets/js/imagesloaded.pkgd.min.js"></script>
     <script src="/assets/js/jquery.malihu.PageScroll2id.min.js"></script>
+    <script src="/assets/js/validator.js"></script>
     <script src="/assets/vendor/php-email-form/validate.js"></script>
     <script src="/assets/js/jquery.shuffle.min.js"></script>
     <script src="/assets/js/masonry.pkgd.min.js"></script>
     <script src="/assets/js/owl.carousel.min.js"></script>
     <script src="/assets/js/jquery.magnific-popup.min.js"></script>
-    <!-- <script src='https://www.google.com/recaptcha/api.js'></script> -->
+    <script src='https://www.google.com/recaptcha/api.js'></script>
     <script src="/assets/js/alpha-script.js"></script>
 
 </body>
