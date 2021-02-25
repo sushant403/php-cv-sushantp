@@ -53,20 +53,6 @@
 
 
                         <div class="timeline timeline-second-style clearfix">
-                            <div class="timeline-item clearfix">
-                                <div class="left-part">
-                                    <h5 class="item-period">2020 - Current</h5>
-                                    <span class="item-company">Sajilo Marmat Sewa</span>
-                                </div>
-                                <div class="divider"></div>
-                                <div class="right-part">
-                                    <h4 class="item-title">Web Administrator | Database Manager</h4>
-                                    <p>Managing the Database Administration and leading a team of 5
-                                        members on the company. Managing Website using CorePHP and
-                                        React. Also working as a Sales Team.
-                                    </p>
-                                </div>
-                            </div>
 
                             <div class="timeline-item clearfix">
                                 <div class="left-part">
@@ -81,6 +67,51 @@
                                         Canada). I am working on various projects ordered by
                                         clients. Also working as a Web Designer and Full Stack
                                         Developer.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="timeline-item clearfix">
+                                <div class="left-part">
+                                    <h5 class="item-period">Feb. 2021 - Apr. 2021</h5>
+                                    <span class="item-company">Prelude International Limited
+                                    </span>
+                                </div>
+                                <div class="divider"></div>
+                                <div class="right-part">
+                                    <h4 class="item-title">Project Leader | FullStack Developer | UX / UI Designer</h4>
+                                    <p>Developed a fully functional CMS along with Appointment Request System using AngularJS. I am working on various projects ordered by
+                                        clients. Collaborated in a team, designed the system UI and managed the hosting of the website.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="timeline-item clearfix">
+                                <div class="left-part">
+                                    <h5 class="item-period">Jan. 2021 - Mar. 2021</h5>
+                                    <span class="item-company">Dailo Tech
+                                    </span>
+                                </div>
+                                <div class="divider"></div>
+                                <div class="right-part">
+                                    <h4 class="item-title">Frontend Supervisor | UX / UI Designer</h4>
+                                    <p>Worked with the team of 7, analyzing the user interface and the system to optimize the overall website. I am working on various projects ordered by
+                                        clients. Development using Python (Django) at the backend and Bootstrap/jQuery at the frontend.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="timeline-item clearfix">
+                                <div class="left-part">
+                                    <h5 class="item-period">2020 - Current</h5>
+                                    <span class="item-company">Sajilo Marmat Sewa</span>
+                                </div>
+                                <div class="divider"></div>
+                                <div class="right-part">
+                                    <h4 class="item-title">Web Administrator | Database Manager</h4>
+                                    <p>Managing the Database Administration and leading a team of 5
+                                        members on the company. Managing Website using CorePHP and
+                                        React. Also working as a Sales Team.
                                     </p>
                                 </div>
                             </div>
@@ -234,7 +265,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12">
                     <div class="col-inner ts-30">
-                        <a href="#" target="_blank" class="btn btn-primary">Download CV</a>
+                        <a href="https://drive.google.com/file/d/1RfmpyXRp_m4bWxJGgcQAkpRXeO4rHIYY/view" target="_blank" class="btn btn-primary">Download CV</a>
                     </div>
                 </div>
             </div>

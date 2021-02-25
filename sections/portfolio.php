@@ -33,12 +33,12 @@
                             <!-- Portfolio Project -->
                             <figure class="item standard" data-groups='["category_all", "category_fullstack"]'>
                                 <div class="portfolio-item-img">
-                                    <img src="assets/images/portfolio/skillpark-Frontend_SushantPoudel.png" alt="Full Stack Project" title="" />
+                                    <img src="assets/images/portfolio/skillpark-Frontend_SushantPoudel.png" alt="Freelancers Platform" title="" />
                                     <a href="https://skillpark.herokuapp.com" target="_blank"></a>
                                 </div>
 
                                 <i class="far fa-file-alt"></i>
-                                <h4 class="name">Full Stack Project</h4>
+                                <h4 class="name">Freelancers Platform</h4>
                                 <span class="category">Full Stack</span>
                             </figure>
                             <!-- /Portfolio Project -->
@@ -46,12 +46,12 @@
                             <!-- Portfolio Project 4 -->
                             <figure class="item standard" data-groups='["category_all", "category_fullstack"]'>
                                 <div class="portfolio-item-img">
-                                    <img src="assets/images/portfolio/karyapalika-Frontend_SushantPoudel.png" alt="Full Stack Project" title="" />
+                                    <img src="assets/images/portfolio/karyapalika-Frontend_SushantPoudel.png" alt="Karyapalika Forum" title="" />
                                     <a href="https://karyapalika.herokuapp.com" target="_blank"></a>
                                 </div>
 
                                 <i class="far fa-file-alt"></i>
-                                <h4 class="name">Full Stack Project</h4>
+                                <h4 class="name">Karyapalika Forum</h4>
                                 <span class="category">Full Stack</span>
                             </figure>
                             <!-- Portfolio Project 4 -->
@@ -70,6 +70,21 @@
                                 <span class="category">UI/UX</span>
                             </figure>
                             <!-- /Portfolio Project 5 -->
+
+                            <!-- Portfolio Project Hash -->
+                            <figure class="item lbimage" data-groups='["category_all", "category_fullstack"]'>
+                                <div class="portfolio-item-img">
+                                    <img src="assets/images/portfolio/preludeint-Frontend_SushantPoudel.png" alt="Consultancy Website" title="" />
+                                    <a class="lightbox" title="Consultancy Website" href="assets/images/portfolio/preludeint-Frontend_SushantPoudel.png"></a>
+                                </div>
+
+                                <i class="far fa-image"></i>
+                                <a href="https://preludeint.com" target="_blank">
+                                    <h4 class="name">Prelude International Limited</h4>
+                                </a>
+                                <span class="category">Full Stack</span>
+                            </figure>
+                            <!-- /Portfolio Project Hash -->
 
                             <!-- Portfolio Project 6 -->
                             <figure class="item lbvideo" data-groups='["category_all", "category_motivation"]'>
