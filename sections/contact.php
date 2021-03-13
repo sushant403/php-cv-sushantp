@@ -35,7 +35,7 @@
                     <div class="col-inner bs-30">
                         <div class="lm-info-block gray-default">
                             <i class="lnr lnr-envelope"></i>
-                            <h4><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="99fcf4f8f0f5d9fce1f8f4e9f5fcb7faf6f4">[email&#160;protected]</a>
+                            <h4><a href="mailto:sushantpoudelofficial@gmail.com">s*****al@gmail.com</a>
                             </h4>
                             <span class="lm-info-block-value"></span>
                             <span class="lm-info-block-text"></span>

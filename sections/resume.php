@@ -144,7 +144,7 @@
                             <!-- Skill 1 -->
                             <div class="clearfix">
                                 <h4>Web Design</h4>
-                                <div class="skill-value">95%</div>
+                                <div class="skill-value"></div>
                             </div>
                             <div class="skill-container">
                                 <div class="skill-percentage skill-1"></div>
@@ -154,7 +154,7 @@
                             <!-- Skill 2 -->
                             <div class="clearfix">
                                 <h4>Responsive Design (PWA)</h4>
-                                <div class="skill-value">90%</div>
+                                <div class="skill-value"></div>
                             </div>
                             <div class="skill-container">
                                 <div class="skill-percentage skill-4"></div>
@@ -164,7 +164,7 @@
                             <!-- Skill 3 -->
                             <div class="clearfix">
                                 <h4>Logo Design</h4>
-                                <div class="skill-value">80%</div>
+                                <div class="skill-value"></div>
                             </div>
                             <div class="skill-container">
                                 <div class="skill-percentage skill-3"></div>
@@ -174,7 +174,7 @@
                             <!-- Skill 4 -->
                             <div class="clearfix">
                                 <h4>Graphic Design</h4>
-                                <div class="skill-value">90%</div>
+                                <div class="skill-value"></div>
                             </div>
                             <div class="skill-container">
                                 <div class="skill-percentage skill-4"></div>
@@ -191,7 +191,7 @@
                             <!-- Skill 5 -->
                             <div class="clearfix">
                                 <h4>JavaScript</h4>
-                                <div class="skill-value">85%</div>
+                                <div class="skill-value"></div>
                             </div>
                             <div class="skill-container">
                                 <div class="skill-percentage skill-5"></div>
@@ -201,7 +201,7 @@
                             <!-- Skill 6 -->
                             <div class="clearfix">
                                 <h4>PHP</h4>
-                                <div class="skill-value">70%</div>
+                                <div class="skill-value"></div>
                             </div>
                             <div class="skill-container">
                                 <div class="skill-percentage skill-6"></div>
@@ -211,7 +211,7 @@
                             <!-- Skill 7 -->
                             <div class="clearfix">
                                 <h4>Laravel Framework</h4>
-                                <div class="skill-value">90%</div>
+                                <div class="skill-value"></div>
                             </div>
                             <div class="skill-container">
                                 <div class="skill-percentage skill-8"></div>
@@ -221,7 +221,7 @@
                             <!-- Skill 8 -->
                             <div class="clearfix">
                                 <h4>VueJS</h4>
-                                <div class="skill-value">75%</div>
+                                <div class="skill-value"></div>
                             </div>
                             <div class="skill-container">
                                 <div class="skill-percentage skill-8"></div>
@@ -231,7 +231,7 @@
                             <!-- Skill 9 -->
                             <div class="clearfix">
                                 <h4>HTML / CSS</h4>
-                                <div class="skill-value">100%</div>
+                                <div class="skill-value"></div>
                             </div>
                             <div class="skill-container">
                                 <div class="skill-percentage skill-9"></div>
@@ -241,7 +241,7 @@
                             <!-- Skill 9 -->
                             <div class="clearfix">
                                 <h4>Terminal</h4>
-                                <div class="skill-value">70%</div>
+                                <div class="skill-value"></div>
                             </div>
                             <div class="skill-container">
                                 <div class="skill-percentage skill-8"></div>
@@ -251,7 +251,7 @@
                             <!-- Skill 10 -->
                             <div class="clearfix">
                                 <h4>Git and VCS</h4>
-                                <div class="skill-value">80%</div>
+                                <div class="skill-value"></div>
                             </div>
                             <div class="skill-container">
                                 <div class="skill-percentage skill-10"></div>

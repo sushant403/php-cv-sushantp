@@ -36,7 +36,7 @@
                         </li>
                         <li><span class="title">Address</span><span class="value">44700 Lalitpur,
                                 Bagmati</span></li>
-                        <li><span class="title">E-mail</span><span class="value"><a href="/cdn-cgi/l/email-protection#2f4a424e46436f4a574e425f434a014c4042"><span class="__cf_email__" data-cfemail="99fcf4f8f0f5d9fce1f8f4e9f5fcb7faf6f4">[email&#160;protected]</span></a>
+                        <li><span class="title">E-mail</span><span class="value"><a href="mailto:sushantpoudelofficial@gmail.com"><span>sushantpoudelofficial@gmail.com</span></a>
                             </span>
                         </li>
                         <li><span class="title">Contact Website</span><span class="value"><a href="http://www.sushantp.com.np" target="_blank">https://sushantp.com.np</a></span>
@@ -109,10 +109,10 @@
                                     <i class="lnr lnr-pencil"></i>
                                 </div>
                                 <div class="ci-text">
-                                    <h4>Creative Copywriting</h4>
+                                    <h4>Creative Copywriter</h4>
                                     <p class="text-justify">Fluency in English and few other
                                         languages has certainly been my plus point on writing
-                                        contents. Accurate Grammer Knowledge has helped me achieve
+                                        contents. Accurate Grammar Knowledge has helped me achieve
                                         many 'Blogging Site' Clients and more.</p>
                                 </div>
                             </div>
@@ -126,7 +126,8 @@
                                 <div class="ci-text">
                                     <h4>Project Management</h4>
                                     <p class="text-justify">Currently involved in managing the
-                                        Database and the Website of <a href="https://sajilosewa.com" target="_blank">Sajilo Marmat Sewa</a>. I
+                                        Database and the Website of <a href="https://sajilosewa.com" target="_blank">Sajilo
+                                            Marmat Sewa</a>. I
                                         have also led teams, including Hackathon Competitions, to
                                         complete various projects.</p>
                                 </div>

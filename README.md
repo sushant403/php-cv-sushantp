@@ -21,7 +21,6 @@ Find me anywhere, upwork, fiverr or linkedin for business related queries.
 
 📫 How to reach me: [s**\*\***del@gmail.com](mailto:sushantpaudel@gmail.com)
 
- <br>
 
 <p align="left"> <img src="https://img.shields.io/twitter/follow/sushant_pdll?label=Sushant%20Poudel&style=social" alt="Sushant Poudel" /> </p>
 
