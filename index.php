@@ -37,11 +37,11 @@ $data = mysqli_fetch_array($runquery);
 </head>
 
 <body>
-<div class="preloader">
+<!-- <div class="preloader">
     <div class="spinner">
         <div class="circles"></div>
     </div>
-</div>
+</div> -->
 <div id="page" class="page one-page-style">
 
     <!-- Arrows Nav -->
